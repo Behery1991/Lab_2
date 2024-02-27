@@ -1,0 +1,7 @@
+C:\Users\beher\source\repos\sorting_algorithm\sorting_algorithm\bin\Debug\sorting_algorithm.exe.config
+C:\Users\beher\source\repos\sorting_algorithm\sorting_algorithm\bin\Debug\sorting_algorithm.exe
+C:\Users\beher\source\repos\sorting_algorithm\sorting_algorithm\bin\Debug\sorting_algorithm.pdb
+C:\Users\beher\source\repos\sorting_algorithm\sorting_algorithm\obj\Debug\sorting_algorithm.csproj.AssemblyReference.cache
+C:\Users\beher\source\repos\sorting_algorithm\sorting_algorithm\obj\Debug\sorting_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\beher\source\repos\sorting_algorithm\sorting_algorithm\obj\Debug\sorting_algorithm.exe
+C:\Users\beher\source\repos\sorting_algorithm\sorting_algorithm\obj\Debug\sorting_algorithm.pdb
